@@ -1,0 +1,76 @@
+Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:0
+-----------Test Precition@5:0.0006 Recall@5:0.0028 NDCG@5:0.0018-----------
+-----------Test Precition@10:0.0005 Recall@10:0.0047 NDCG@10:0.0024-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0091 NDCG@20:0.0035-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0091 NDCG@20:0.0035-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:1
+-----------Test Precition@5:0.0006 Recall@5:0.0030 NDCG@5:0.0018-----------
+-----------Test Precition@10:0.0005 Recall@10:0.0049 NDCG@10:0.0025-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0093 NDCG@20:0.0036-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0093 NDCG@20:0.0036-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:2
+-----------Test Precition@5:0.0006 Recall@5:0.0031 NDCG@5:0.0019-----------
+-----------Test Precition@10:0.0005 Recall@10:0.0052 NDCG@10:0.0026-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0094 NDCG@20:0.0036-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0094 NDCG@20:0.0036-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:3
+-----------Test Precition@5:0.0006 Recall@5:0.0032 NDCG@5:0.0020-----------
+-----------Test Precition@10:0.0005 Recall@10:0.0052 NDCG@10:0.0026-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0095 NDCG@20:0.0037-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0095 NDCG@20:0.0037-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:7
+-----------Test Precition@5:0.0006 Recall@5:0.0032 NDCG@5:0.0020-----------
+-----------Test Precition@10:0.0006 Recall@10:0.0058 NDCG@10:0.0029-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0096 NDCG@20:0.0038-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0096 NDCG@20:0.0038-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:9
+-----------Test Precition@5:0.0006 Recall@5:0.0032 NDCG@5:0.0019-----------
+-----------Test Precition@10:0.0006 Recall@10:0.0064 NDCG@10:0.0029-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0103 NDCG@20:0.0039-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0103 NDCG@20:0.0039-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:12
+-----------Test Precition@5:0.0007 Recall@5:0.0037 NDCG@5:0.0022-----------
+-----------Test Precition@10:0.0007 Recall@10:0.0065 NDCG@10:0.0031-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0105 NDCG@20:0.0041-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0105 NDCG@20:0.0041-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:14
+-----------Test Precition@5:0.0007 Recall@5:0.0035 NDCG@5:0.0021-----------
+-----------Test Precition@10:0.0006 Recall@10:0.0064 NDCG@10:0.0030-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0108 NDCG@20:0.0041-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0108 NDCG@20:0.0041-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:15
+-----------Test Precition@5:0.0007 Recall@5:0.0036 NDCG@5:0.0021-----------
+-----------Test Precition@10:0.0006 Recall@10:0.0065 NDCG@10:0.0031-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0109 NDCG@20:0.0042-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0109 NDCG@20:0.0042-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:16
+-----------Test Precition@5:0.0007 Recall@5:0.0037 NDCG@5:0.0023-----------
+-----------Test Precition@10:0.0007 Recall@10:0.0070 NDCG@10:0.0034-----------
+-----------Test Precition@20:0.0006 Recall@20:0.0111 NDCG@20:0.0044-----------
+------Best Test Precition@20:0.0006 Recall@20:0.0111 NDCG@20:0.0044-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:17
+-----------Test Precition@5:0.0007 Recall@5:0.0037 NDCG@5:0.0022-----------
+-----------Test Precition@10:0.0006 Recall@10:0.0064 NDCG@10:0.0031-----------
+-----------Test Precition@20:0.0006 Recall@20:0.0112 NDCG@20:0.0043-----------
+------Best Test Precition@20:0.0006 Recall@20:0.0112 NDCG@20:0.0043-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:24
+-----------Test Precition@5:0.0008 Recall@5:0.0040 NDCG@5:0.0025-----------
+-----------Test Precition@10:0.0006 Recall@10:0.0062 NDCG@10:0.0032-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0099 NDCG@20:0.0041-----------
+------Best Test Precition@20:0.0006 Recall@20:0.0112 NDCG@20:0.0043-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:0
+-----------Test Precition@5:0.0006 Recall@5:0.0029 NDCG@5:0.0018-----------
+-----------Test Precition@10:0.0005 Recall@10:0.0048 NDCG@10:0.0025-----------
+-----------Test Precition@20:0.0004 Recall@20:0.0090 NDCG@20:0.0035-----------
+------Best Test Precition@20:0.0004 Recall@20:0.0090 NDCG@20:0.0035-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:1
+-----------Test Precition@5:0.0006 Recall@5:0.0030 NDCG@5:0.0019-----------
+-----------Test Precition@10:0.0005 Recall@10:0.0046 NDCG@10:0.0024-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0092 NDCG@20:0.0036-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0092 NDCG@20:0.0036-----------Namespace(PATH_weight_load=None, PATH_weight_save=None, alpha=1.0, batch_size=128, beta=1.0, data_path='Ciao', dim_E=64, has_pre_trained='True', has_transE='False', l_r=0.001, margin=1.0, model_name='model', no_cuda=False, num_epoch=50, num_workers=3, prefix='', reg_weight=0.01, save_file='test1231', seed=1, step=2000, topK=20)
+ epoch:2
+-----------Test Precition@5:0.0007 Recall@5:0.0034 NDCG@5:0.0021-----------
+-----------Test Precition@10:0.0005 Recall@10:0.0053 NDCG@10:0.0028-----------
+-----------Test Precition@20:0.0005 Recall@20:0.0094 NDCG@20:0.0038-----------
+------Best Test Precition@20:0.0005 Recall@20:0.0094 NDCG@20:0.0038-----------
