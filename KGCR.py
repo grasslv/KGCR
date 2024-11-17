@@ -66,6 +66,8 @@ class GCN(MessagePassing):
 
 
 class KGCR(torch.nn.Module):
+    # TODO: 1. KGCR 方法部分不用大概，GCN都是现成的，需要加那里的图卷积就直接加就好了，不需要这么复杂
+    # TODO: 2. Sparse 矩阵那里直接from_dense，不需要这么大费周章
     # ia:u-u
     # ua:i-i
     def __init__(self, num_u, num_i, num_a, ui_data, ia_data, ua_data, reg_weight, dim_E, alpha, beta, margin):
