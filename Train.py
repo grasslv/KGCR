@@ -2,7 +2,8 @@ import torch
 import torch.nn as nn
 from tqdm import tqdm
 
-def train(epoch, length, dataloader, model, optimizer, batch_size, writer):    
+
+def train(epoch, length, dataloader, model, optimizer, batch_size, writer):
     model.train()
     print('Now, training start ...')
 
@@ -29,6 +30,6 @@ def train(epoch, length, dataloader, model, optimizer, batch_size, writer):
 
     pbar.close()
     print('----------------- loss value:{}  model_loss value:{} reg_loss value:{} --------------'
-        .format(sum_loss/step, sum_model_loss/step, sum_reg_loss/step))
+          .format(sum_loss / step, sum_model_loss / step, sum_reg_loss / step))
 
     return loss
